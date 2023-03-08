@@ -13,3 +13,4 @@ ls -al . .. /bash lists all files in long format
 file prints the type of a file
 ln -s create a symbolic link
 cp -un copy only files that did not exist
+mv [[:upper:]]*  Moves files starting with uppercase letters
