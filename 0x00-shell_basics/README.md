@@ -15,3 +15,4 @@ ln -s create a symbolic link
 cp -un copy only files that did not exist
 mv [[:upper:]]*  Moves files starting with uppercase letters
 rm *~ delete all files that end with ~
+mkdir -p create multiple directories
