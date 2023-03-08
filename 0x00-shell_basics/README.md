@@ -7,3 +7,4 @@ ls -lan display contents in long formats with user and group IDs displayed numer
 mkdir creates a directory
 mv move a file
 rm delete a file
+rm -r delete a directory
