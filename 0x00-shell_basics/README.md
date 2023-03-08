@@ -6,3 +6,4 @@ ls -al display current directory contents in a long format including hidden file
 ls -lan display contents in long formats with user and group IDs displayed numerically and hidden files
 mkdir creates a directory
 mv move a file
+rm delete a file
